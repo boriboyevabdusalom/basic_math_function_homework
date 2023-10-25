@@ -7,4 +7,6 @@ def main(a):
     Returns:
         int: the absolute value.
     '''
+    a = round(-8)
     return
+    print(a)
